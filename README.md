@@ -15,7 +15,7 @@ This project implements a simple key-value store HTTP server in Go.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Rahul1804/kvstore.git
    cd kvstore
 2. **Install dependencies:**
 
